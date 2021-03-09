@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+*.xo
+*.a
+*.so
+*.db
